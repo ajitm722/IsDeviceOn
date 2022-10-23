@@ -1,0 +1,1 @@
+Checks whether your device has been turned on
